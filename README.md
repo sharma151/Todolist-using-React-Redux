@@ -25,7 +25,8 @@ A simple and interactive Todo List application built with **React** and **Redux*
 - **npm** (Node Package Manager) or **yarn**
 
 ### 1. Install Node.js
-Download and install Node.js from [Node.js Official Website](https://nodejs.org/). This will also install `npm`.
+Download and install Node.js from [Node.js Official Website](https://nodejs.org/).
+This will also install `npm`.
 
 ### 2. Clone the Repository
 
